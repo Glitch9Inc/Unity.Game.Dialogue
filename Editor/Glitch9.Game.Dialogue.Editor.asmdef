@@ -1,0 +1,20 @@
+{
+    "name": "Glitch9.Game.Dialogue.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:519ce8ff3a59daa4cbdf56be0b339a2e",
+        "GUID:4717c971418fe7f41b7a0071b5f9c608",
+        "GUID:fb974b03d7aea0e4982a1cb39aaacda9",
+        "GUID:6f41e02202943a5488d52936ed43ef10",
+        "GUID:de6382faed31d204ebeada212d9487b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

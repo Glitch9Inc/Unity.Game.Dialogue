@@ -1,0 +1,25 @@
+{
+    "name": "Glitch9.Game.Dialogue",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1e113d3b5d77bc04eab508251483e8ff",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:519ce8ff3a59daa4cbdf56be0b339a2e",
+        "GUID:da1e30c3c0769a74bbb30f08bde7f1a0",
+        "GUID:6f41e02202943a5488d52936ed43ef10",
+        "GUID:6b22160aa960f1045a2d799a4461afb7",
+        "GUID:03658705ce43d184195545ce3dfb082f",
+        "GUID:4994fd96edf439a4bb1fb994d70dc9fd",
+        "GUID:6322f0ca0122c4647b4f328bd7df90e0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
