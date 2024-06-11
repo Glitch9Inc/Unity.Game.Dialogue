@@ -89,7 +89,7 @@ namespace Glitch9.Game.Dialogue
 
             if (CurrentEpisode.Dialogues.IsNullOrEmpty())
             {
-                Game.DisplayError(this, "Dialogue Block is null");
+                MyGame.DisplayError(this, "Dialogue Block is null");
                 DialogueManager.Instance.FinishDialogue();
                 return;
             }
@@ -102,7 +102,7 @@ namespace Glitch9.Game.Dialogue
                 {
                     if (indexCounter > 500)
                     {
-                        Game.DisplayError(this, "Infinite loop detected:" + index);
+                        MyGame.DisplayError(this, "Infinite loop detected:" + index);
                         break;
                     }
                     indexCounter++;
@@ -118,7 +118,7 @@ namespace Glitch9.Game.Dialogue
                 {
                     if (indexCounter > 500)
                     {
-                        Game.DisplayError(this, "Infinite loop detected:" + index);
+                        MyGame.DisplayError(this, "Infinite loop detected:" + index);
                         break;
                     }
                     indexCounter++;

@@ -89,7 +89,7 @@ namespace Glitch9.Game.Dialogue
 
             if (episode == null)
             {
-                Game.DisplayIssue(this, Issue.MissingContent);
+                MyGame.DisplayIssue(this, Issue.MissingContent);
                 GNLog.Error("에피소드를 로드 완료했으나 값이 null입니다.");
                 return;
             }
